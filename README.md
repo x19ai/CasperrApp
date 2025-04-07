@@ -8,11 +8,11 @@
 ## Links
 
 - [X](https://x.com/CasperrApp)
-- [Pumpfun](https://pump.fun/board)
-- [DexScreener](https://dexscreener.com/)
+- [Pumpfun](https://pump.fun/coin/6nKsEjosQb17P22NNK2pJbHun2HCe7Mox9aNn3wpump)
+- [DexScreener](https://dexscreener.com/solana/6nKsEjosQb17P22NNK2pJbHun2HCe7Mox9aNn3wpump)
 - [Gitbook](https://x19ai.gitbook.io/casperr)
 - [Github](https://github.com/x19ai/CasperrApp)
-- CA: So11111111111111111111111111111111111111112
+- CA: 6nKsEjosQb17P22NNK2pJbHun2HCe7Mox9aNn3wpump
 
 ## Overview
 
